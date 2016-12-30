@@ -18,4 +18,4 @@ Choose Player X from the drop-down menu on the left. Choose Player O from the dr
 
 BUGS: 
 
-SmartAI does not complete first 5 in a row (gets 4 in a row) and instead completes second 5 in a row available. (SmartAI makes two 4 in a rows before attempting to win).
+SmartAI does not complete first 5-in-a-row (gets 4-in-a-row) and instead completes second 5-in-a-row available. (SmartAI makes two 4-in-a-rows before attempting to win).
